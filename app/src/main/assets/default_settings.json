@@ -1,0 +1,16 @@
+{
+  "video_list": {
+    "list": [
+      {
+        "poster": "https://raw.githubusercontent.com/mediaelement/mediaelement-files/master/echo-hereweare.jpg",
+        "url":"https://github.com/mediaelement/mediaelement-files/blob/master/echo-hereweare.mp4?raw=true"
+      }
+      ,
+
+      {
+        "poster": "https://raw.githubusercontent.com/mediaelement/mediaelement-files/master/big_buck_bunny.jpg",
+        "url":"https://github.com/mediaelement/mediaelement-files/blob/master/big_buck_bunny.mp4?raw=true"
+      }
+    ]
+  }
+}
