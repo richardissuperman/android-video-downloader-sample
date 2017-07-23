@@ -103,6 +103,10 @@ public class MainActivity extends AppCompatActivity implements DownloadCallback 
             unbindService(conn);
         }
         myBinder = null;
+        if(subscription != null && !subscription.isUnsubscribed()){
+            subscription.unsubscribe();
+            subscription = null;
+        }
     }
 
     @Override
